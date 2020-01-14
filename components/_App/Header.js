@@ -28,7 +28,7 @@ function Header({ user }) {
               src="/static/logo.svg"
               style={{ marginRight: "1em" }}
             />
-            ReactReserve
+            Hicks Furniture
           </Menu.Item>
         </Link>
 
