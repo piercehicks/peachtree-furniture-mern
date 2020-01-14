@@ -5,6 +5,7 @@ import { parseCookies } from "nookies";
 import baseUrl from "../utils/baseUrl";
 import axios from "axios";
 
+
 function Account({ user, orders }) {
   return (
     <>
