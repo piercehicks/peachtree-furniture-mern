@@ -28,7 +28,7 @@ function Header({ user }) {
               src="/static/logo.svg"
               style={{ marginRight: "1em" }}
             />
-            Hicks Furniture
+            Peachtree Furniture
           </Menu.Item>
         </Link>
 
